@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jáchym Vacek | @Jachym1234
-- 👀 I’m interested in Cryptocurrencies
-- 🌱 I’m currently learning C++ and Python
+- 👀 I’m interested in Cryptocurrencies and AI
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: jachym.vacek@gmail.com
 
 <!---
